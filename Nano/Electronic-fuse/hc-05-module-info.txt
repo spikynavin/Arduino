@@ -1,0 +1,6 @@
+HC-05-BLE bluetooth
+
+Baudrate = 115200
+Pairkey = 2626
+docklight scripting = baudrate 38400
+waveshare connection = 5v logic for docklight
